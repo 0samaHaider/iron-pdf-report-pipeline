@@ -17,22 +17,6 @@ It generates **summary and detailed PDFs** from HTML templates, adds **watermark
 
 ---
 
-## Project Structure
-
-```
-PdfAutomationDemo/
- ├── Templates/
- │    └── MonthlySummary.html
- ├── Output/
- ├── Program.cs
- ├── SummaryPdfGenerator.cs
- ├── DetailedPdfGenerator.cs
- ├── PdfMerger.cs
- └── PdfHelpers.cs
-```
-
----
-
 ## Setup
 
 1. Clone the repository:
