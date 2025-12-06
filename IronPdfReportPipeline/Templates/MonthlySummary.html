@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #3a3a3a;
+        }
+
+        .box {
+            background: #f1f1f1;
+            padding: 15px;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Monthly Sales Summary - {{month}}</h1>
+    <div class="box">
+        <p><b>Total Orders:</b> {{orders}}</p>
+        <p><b>Total Revenue:</b> ${{revenue}}</p>
+        <p><b>Top Product:</b> {{topProduct}}</p>
+    </div>
+</body>
+</html>
