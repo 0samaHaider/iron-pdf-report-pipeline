@@ -41,7 +41,3 @@ dotnet run
 ```
 
 Output PDFs will be generated in **Output/** and images in **Output/Images/**.
-
----
-
-If you want, I can also create an **even shorter version**, like 5–6 lines, perfect for GitHub’s first impression. Do you want me to do that?
