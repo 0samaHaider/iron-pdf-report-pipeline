@@ -23,7 +23,7 @@ It generates **summary and detailed PDFs** from HTML templates, adds **watermark
 
 ```bash
 git clone https://github.com/0samaHaider/iron-pdf-report-pipeline.git
-cd YOUR-REPO
+cd iron-pdf-report-pipeline
 ```
 
 2. Install IronPDF:
